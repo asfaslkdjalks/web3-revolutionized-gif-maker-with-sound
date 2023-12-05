@@ -51,7 +51,7 @@ celery_app.log.setup_task_loggers()
 
 # Export the logger so it can be imported in other modules
 __all__ = ['celery_app', 'logger']
-
+```
 ## witness it in action
 
 to truly grasp the capabilities of *web3-revolutionized-gif-maker-5000-with-sound*, we invite you to watch our demo video. this video will walk you through the process of creating stunning collages with synchronized sound, showcasing the endless possibilities this tool offers.
