@@ -2,7 +2,6 @@
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 
 ### what you'll need:
-
 - **erlang**: [Erlang Official Website](https://www.erlang.org/)
 - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
 - **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
