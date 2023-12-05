@@ -19,8 +19,8 @@ envision a medium that transcends mere entertainment to critically engage with t
 
 sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual—creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
-<div align="center">
-    <img src="filename.gif.gif" alt="Alt text" />
+<div style="text-align: center;">
+    <img src="filename.gif" alt="Alt text" style="display: block; margin: auto;" />
     <div>
         made with this software, audio stripped & converted to GIF.
     </div>
@@ -28,14 +28,13 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
         original video sources:
     </div>
     <div>
-        <div>
-            [Pinterest Girl Outfits](https://www.pinterest.com/uudablue/closet/girl-outfits/) | [YouTube Video](https://www.youtube.com/watch?v=4zHlGkWxU4M)
-        </div>
-        <div>
-           START=30 | END=180
-        </div>
+        <a href="https://www.pinterest.com/uudablue/closet/girl-outfits/">Pinterest Girl Outfits</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M">YouTube Video</a>
+    </div>
+    <div>
+        START=30 | END=180
     </div>
 </div>
+
 
 
 ---
