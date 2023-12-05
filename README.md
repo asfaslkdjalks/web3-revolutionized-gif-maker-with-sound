@@ -73,6 +73,42 @@ RUN chmod -R 777 /app
 CMD ["python", "app.py"]
 ```
 
+and a docker-compose file which may look like this:
+```yaml
+version: '3'
+
+services:
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    hostname: rabbitmq
+
+  worker:
+    build: .
+    command: celery -A celery_config worker --loglevel=info
+    environment:
+      - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672//
+    depends_on:
+      - rabbitmq
+    volumes:
+      - shared_data:/app/downloaded_images
+
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    command: python app.py
+    depends_on:
+      - rabbitmq
+    volumes:
+      - shared_data:/app/downloaded_images
+
+volumes:
+  shared_data:
+```
+
 ## real-time testing
 
 we're in the thick of prepping a live testing zone for this tool, so u can jump right into it on your own. it won't be long till you're getting hands-on, experimenting with its tricks and really getting the full picture, all going down in real time.
