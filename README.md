@@ -21,11 +21,13 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
 
 <div align="center">
     <img src="filename.gif.gif" alt="Alt text" />
-    made with this software, audio stripped & converted to GIF.
-    original video sources:
-    - https://www.pinterest.com/uudablue/closet/girl-outfits/
-    - https://www.youtube.com/watch?v=4zHlGkWxU4M
-    - time settings: START=30, END=180
+    <div>
+        made with this software, audio stripped & converted to GIF.
+        original video sources:
+        - https://www.pinterest.com/uudablue/closet/girl-outfits/
+        - https://www.youtube.com/watch?v=4zHlGkWxU4M
+        - time settings: START=30, END=180
+    </div>
 </div>
 
 
