@@ -115,12 +115,12 @@ If you're keen to dive in, we're all for you getting your hands dirty with setti
 
 ### What you'll need:
 
-- **Erlang**: [Erlang Official Website](https://www.erlang.org/)
-- **RabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
-- **FFmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
+- **erlang**: [Erlang Official Website](https://www.erlang.org/)
+- **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
+- **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
 - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
-- **Flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
-- **Celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
-- **Other stuff...**: Depending on your project's specific requirements.
+- **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
+- **felery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
+- ... other stuff
 
 bingus
