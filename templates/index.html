@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Video from Pinterest Images and YouTube Audio</title>
+</head>
+<body>
+    <h1>Create Video from Pinterest Images and YouTube Audio</h1>
+    <form action="/" method="post">
+        <label for="board_url">Pinterest Board URL:</label><br>
+        <input type="text" id="board_url" name="board_url" required><br><br>
+
+        <label for="youtube_url">YouTube Video URL:</label><br>
+        <input type="text" id="youtube_url" name="youtube_url" required><br><br>
+
+        <label for="start_time">Start Time (e.g., 00:00:05 or 5 for 5 seconds):</label><br>
+        <input type="text" id="start_time" name="start_time" required><br><br>
+
+        <label for="end_time">End Time (e.g., 00:00:10 or 10 for 10 seconds):</label><br>
+        <input type="text" id="end_time" name="end_time" required><br><br>
+
+        <input type="submit" value="Create Video">
+    </form>
+
+    <p>{{ message }}</p>
+    <a href="/download">Download Video</a>
+</body>
+</html>
