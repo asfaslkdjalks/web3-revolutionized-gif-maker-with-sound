@@ -43,10 +43,12 @@ __all__ = ['celery_app', 'logger']
 ```
 In a single form submission, your entries will become a GIF (with sound).
 ```python
-chain = (download_images_task.si(board_url, output_directory) |
-                     download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
-                     combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10))
-            result = chain.apply_async()
+chain = (
+    download_images_task.si(board_url, output_directory) |
+    download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
+    combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10)
+)
+result = chain.apply_async()
 ```
 ## Witness It in Action
 
