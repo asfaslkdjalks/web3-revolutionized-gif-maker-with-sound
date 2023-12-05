@@ -21,7 +21,7 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
 
 <div align="center">
     <img src="filename.gif.gif" alt="Alt text" />
-    <div style="font-size: larger;">
+    <div>
         made with this software, audio stripped & converted to GIF.
     </div>
     <div>
