@@ -139,7 +139,7 @@ If you're keen to dive in, we're all for you getting your hands dirty with setti
 - **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
 - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
 - **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
-- **felery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
+- **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
 - ... other stuff
 
 bingus
