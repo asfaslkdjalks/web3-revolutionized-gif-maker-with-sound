@@ -21,7 +21,7 @@ This repository houses the very essence of this innovative tool—the core 'busi
 ### Logging and Celery Setup
 
 To provide a glimpse into the codebase, let's take a look at a snippet responsible for setting up logging and configuring Celery, an essential component of our tool:
-
+```python
 celery_app = Celery(
     __name__,
     broker='amqp://guest:guest@rabbitmq:5672//',
@@ -40,14 +40,14 @@ celery_app.conf.update(
 celery_app.log.setup_task_loggers()
 
 __all__ = ['celery_app', 'logger']
-
+```
 In a single form submission, your entries will become a GIF (with sound).
-
+```python
 chain = (download_images_task.si(board_url, output_directory) |
                      download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
                      combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10))
             result = chain.apply_async()
-
+```
 ## Witness It in Action
 
 To truly grasp the capabilities of *Web3-Revolutionized-GIF-Maker-5000-With-Sound*, we invite you to watch our demo video. This video will walk you through the process of creating stunning collages with synchronized sound, showcasing the endless possibilities this tool offers.
