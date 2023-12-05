@@ -7,14 +7,8 @@ envision a medium that transcends mere entertainment to critically engage with t
 ## a confluence of visual and auditory exploration
 
 sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual—creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
-
-[Banner](https://gyazo.com/b464e5962adad4946bc2731f4ce8edac)
-
-
 ---
-
 *explore the intricate tapestry of the digital world, join us on a journey that questions reality and identity, inviting you to dance in the mesmerizing pictures and sounds that make up a collage.*
-
 
 ## witness it in action
 
