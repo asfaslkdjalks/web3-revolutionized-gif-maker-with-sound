@@ -1,5 +1,5 @@
 # web<sub>3</sub> revolutionized gif maker with-sound
-**blockchain & nft inspired web<sub>3</sub> gif maker with sound**, revolutionizing the industry with the easiest interface to create captivating collages.
+revolutionizing the industry with the easiest interface to create captivating collages.
 
 
 thank you for your enthusiastic interest in *web3-revolutionized-gif-maker-5000-with-sound*. we are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. in this readme, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
