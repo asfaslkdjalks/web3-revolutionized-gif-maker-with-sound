@@ -9,9 +9,10 @@
 - **flask**: [Flask Official Website](https://flask.palletsprojects.com/)
 - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/)
 
-envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in their data streams.
+*Envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. Each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. Imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in their data streams.*
 
-**the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore.** it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the **‘wired’** and the **'real'** blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.
+***The collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore.*** *It's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. It's a digital landscape that subtly nods to the complexity of a world where the* ***‘wired’*** *and the* ***'real'*** *blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.*
+
 
 ---
 
