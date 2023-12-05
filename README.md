@@ -2,8 +2,6 @@
 
 **blockchain & nft inspired web3 gif maker with sound**, revolutionizing the industry with the easiest interface to create captivating collages.
 
-hello,
-
 thank you for your enthusiastic interest in *web3-revolutionized-gif-maker-5000-with-sound*. we are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. in this readme, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
 
 envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
@@ -70,5 +68,5 @@ what you'll need:
 - celery
 - other stuff..
 
-best,
+
 bingus
