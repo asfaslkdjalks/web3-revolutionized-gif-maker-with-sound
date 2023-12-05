@@ -138,5 +138,3 @@ If you're keen to dive in, we're all for you getting your hands dirty with setti
 - **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
 - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
 - ... other stuff
-
-bingus
