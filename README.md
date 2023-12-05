@@ -1,5 +1,5 @@
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker with sound
-## exploring the digital <sup>zeitgeist</sup>
+## <sup>exploring the digital zeitgeist</sup>
 
 imagine a medium that goes beyond mere entertainment, immersing itself in the intricacies of internet culture—a collage that transcends randomness, evolving into a purposeful mosaic of the digital zeitgeist. each segment curated with artisanal precision, echoing abstract, multi-layered narratives that captivate the cybernetic soul. this is the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
 
