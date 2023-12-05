@@ -24,12 +24,20 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
     <div>
         made with this software, audio stripped & converted to GIF.
     </div>
-            <div>
+    <div>
         original video sources:
+    <div>
+    <ul>
+        <li>
         - https://www.pinterest.com/uudablue/closet/girl-outfits/
+        </li>
+        <li>
         - https://www.youtube.com/watch?v=4zHlGkWxU4M
+        </li>
+        <li>
         - time settings: START=30, END=180
-        <div>
+        </li>
+    </ul>
 </div>
 
 
