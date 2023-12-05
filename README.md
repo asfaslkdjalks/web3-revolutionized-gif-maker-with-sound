@@ -109,30 +109,18 @@ volumes:
   shared_data:
 ```
 
-## real-time testing
-
-we're in the thick of prepping a live testing zone for this tool, so u can jump right into it on your own. it won't be long till you're getting hands-on, experimenting with its tricks and really getting the full picture, all going down in real time.
-
-## performance that astounds
-
-our tool is built on a foundation of cutting-edge technology, utilizing rabbitmq as a message broker. this architecture empowers the application to handle exceptional levels of throughput and scalability, ensuring your creative endeavors are never limited by technical constraints.
-
-- maximum throughput: up to a staggering 40,000 messages per second.
-- maximum queue size: support for up to 50,000 messages.
-
 ## take the leap
 
-if you're keen to dive into what's possible, we're all for you getting your hands dirty with setting up and running web3-revolutionized-gif-maker-5000-with-sound on your own
+If you're keen to dive in, we're all for you getting your hands dirty with setting up and running web3-revolutionized-gif-maker-with-sound on your own.
 
-what you'll need:
+### What you'll need:
 
-- erlang
-- rabbitmq
-- ffmpeg
-- yt-dlp
-- flask
-- celery
-- other stuff..
-
+- **Erlang**: [Erlang Official Website](https://www.erlang.org/)
+- **RabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
+- **FFmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
+- **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
+- **Flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
+- **Celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
+- **Other stuff...**: Depending on your project's specific requirements.
 
 bingus
