@@ -37,16 +37,15 @@ FRAME_RATE = 10
 AUDIO_DIR = "/app/downloaded_images/youtube_audio.mp3"
 
 # ... commented out for brevity
-
-chain = (
-    download_images_task.si(board_url, output_directory) |
-    download_youtube_audio_task.si(youtube_url, start_time, end_time, AUDIO_DIR) |
-    combine_images_and_video_task.si(output_directory, AUDIO_DIR, output_video_path, FRAME_RATE)
-)
-result = chain.apply_async()
-
-# ... commented out for brevity
-
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    # ... commented out for brevity
+    chain = (
+        download_images_task.si(board_url, output_directory) |
+        download_youtube_audio_task.si(youtube_url, start_time, end_time, AUDIO_DIR) |
+        combine_images_and_video_task.si(output_directory, AUDIO_DIR, output_video_path, FRAME_RATE)
+    )
+    result = chain.apply_async()
 ```
 
 remember, if you plan on running this on you're own, you'll need a `celery_config.py` file that includes something like this:
