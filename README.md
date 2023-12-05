@@ -24,6 +24,15 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
 
 the simple act of submitting a form morphs your inputs into a unique creative process:
 ```python
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
 chain = (
     download_images_task.si(board_url, output_directory) |
     download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
