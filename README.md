@@ -30,13 +30,18 @@ the simple act of submitting a form morphs your inputs into a unique creative pr
 ```python
 # WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
 # PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+...
+FRAME_RATE = 10
+AUDIO_DIR = "/app/downloaded_images/youtube_audio.mp3"
+...
 
 chain = (
     download_images_task.si(board_url, output_directory) |
-    download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
-    combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10)
+    download_youtube_audio_task.si(youtube_url, start_time, end_time, AUDIO_DIR) |
+    combine_images_and_video_task.si(output_directory, AUDIO_DIR, output_video_path, FRAME_RATE)
 )
 result = chain.apply_async()
+...
 ```
 
 remember, if you plan on running this on you're own, you'll need a `celery_config.py` file that includes something like this:
