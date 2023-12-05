@@ -1,17 +1,13 @@
 
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 
-## Process to Combine Content from Pinterest with YouTube Audio
 
 1. **Supply a Pinterest Link**: 
    Provide the link to the Pinterest content you want to use.
-
 2. **Supply a YouTube Link for Audio**: 
    Provide the link to the YouTube video for the audio part.
-
 3. **Set Timestamps for the YouTube Video/Audio**:
    Specify the start and end timestamps for the YouTube audio you want to use.
-
 4. **Download the Combined Content**:
    Click submit and wait for the content to download.
 
