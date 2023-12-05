@@ -6,7 +6,7 @@ envision a medium that transcends mere entertainment to critically engage with t
 
 ## a confluence of visual and auditory exploration
 
-sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
+sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual—creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
 ![cybernetic collage](insert_image_link_here)
 
