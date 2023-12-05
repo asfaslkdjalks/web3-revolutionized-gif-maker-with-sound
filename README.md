@@ -9,9 +9,9 @@
 
 - erlang: [Erlang Official Website][1] (pre-requisite to rabbitmq)
 - rabbitmq: [RabbitMQ Official Website][2]
-- ffmpeg: [FFmpeg Official Website][3]
-- flask: [Flask Official Website][5]
 - celery: [Celery Official Website][6]
+- ffmpeg: [FFmpeg Official Website][3] (see example Dockerfile below)
+- flask: [Flask Official Website][5]
 - yt-dlp: [yt-dlp on GitHub][4]
 - gallery-dl [gallery-dl on PyPI][7]
 
