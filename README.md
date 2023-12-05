@@ -7,7 +7,7 @@
 
 ### *what you'll need:*
 
-- erlang: [Erlang Official Website][1]
+- erlang: [Erlang Official Website][1] (pre-requisite to rabbitmq)
 - rabbitmq: [RabbitMQ Official Website][2]
 - ffmpeg: [FFmpeg Official Website][3]
 - flask: [Flask Official Website][5]
