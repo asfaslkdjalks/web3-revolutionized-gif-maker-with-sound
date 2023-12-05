@@ -6,12 +6,12 @@
 ***the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore.*** *it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the* ***‘wired’*** *and the* ***'real'*** *blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.*
 
 ### *what you'll need:*
-- **erlang**: [Erlang Official Website](https://www.erlang.org/)
-- **rabbitmq**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
-- **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
-- **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
-- **flask**: [Flask Official Website](https://flask.palletsprojects.com/)
-- **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/)
+- **erlang**: [Erlang Official Website][1]
+- **rabbitmq**: [RabbitMQ Official Website][2]
+- **ffmpeg**: [FFmpeg Official Website][3]
+- **yt-dlp**: [yt-dlp on GitHub][4]
+- **flask**: [Flask Official Website][5]
+- **celery**: [Celery Official Website][6]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
@@ -158,3 +158,15 @@ volumes:
   shared_data:
 ```
 ---
+
+## References
+
+1. "Erlang," Erlang Official Website, https://www.erlang.org/.
+2. "RabbitMQ," RabbitMQ Official Website, https://www.rabbitmq.com/.
+3. "FFmpeg," FFmpeg Official Website, https://ffmpeg.org/.
+4. "yt-dlp," yt-dlp on GitHub, https://github.com/yt-dlp/yt-dlp.
+5. "Flask," Flask Official Website, https://flask.palletsprojects.com/.
+6. "Celery," Celery Official Website, https://docs.celeryproject.org/en/stable/.
+7. "Python," Python Official Documentation, https://docs.python.org/3/.
+8. "Docker," Docker Official Documentation, https://docs.docker.com/.
+9. "Docker Compose," Docker Official Documentation, https://docs.docker.com/compose/.
