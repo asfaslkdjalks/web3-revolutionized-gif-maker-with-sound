@@ -40,6 +40,39 @@ celery_app.log.setup_task_loggers()
 
 __all__ = ['celery_app', 'logger']
 ```
+
+you may choose to run this application in Docker, in which case you'll need to attach a Dockerfile that may look something like this:
+```docker
+# Use an official Python runtime as a parent image
+FROM python:3.11
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install FFmpeg
+RUN apt-get update \
+    && apt-get install -y ffmpeg \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Install any needed packages specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Make port 5000 available to the world outside this container
+EXPOSE 5000
+
+# Define environment variable
+ENV NAME World
+
+# Set broad permissions on /app directory to avoid potential permission issues
+RUN chmod -R 777 /app
+
+# Run app.py when the container launches
+CMD ["python", "app.py"]
+```
+
 ## real-time testing
 
 we're in the thick of prepping a live testing zone for this tool, so u can jump right into it on your own. it won't be long till you're getting hands-on, experimenting with its tricks and really getting the full picture, all going down in real time.
