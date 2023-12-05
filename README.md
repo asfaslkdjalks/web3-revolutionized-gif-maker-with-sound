@@ -1,10 +1,11 @@
-# Web3-Revolutionized-GIF-Maker-5000-With-Sound
+# web3-revolutionized-gif-maker-5000-with-sound
 
-Blockchain & NFT inspired Web3 GIF maker with sound, revolutionizing the industry with the easiest interface to create captivating collages (with sound).
+**blockchain & nft inspired web3 gif maker with sound**, revolutionizing the industry with the easiest interface to create captivating collages (with sound).
 
-Hello,
+hello,
 
-Thank you for your enthusiastic interest in *Web3-Revolutionized-GIF-Maker-5000-With-Sound*. We are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. In this README, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
+thank you for your enthusiastic interest in *web3-revolutionized-gif-maker-5000-with-sound*. we are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. in this readme, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
+
 
 ## The Future of Content Creation
 
