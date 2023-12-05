@@ -1,4 +1,4 @@
-# web<sub>3</sub> revolutionized gif maker with-sound
+# web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker with-sound
 revolutionizing the industry with the easiest interface to create captivating collages.
 
 
