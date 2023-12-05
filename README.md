@@ -9,6 +9,16 @@ in this realm, sound marries the visual in a dance that is as old as time, yet a
 
 ## witness it in action
 
+### What you'll need:
+
+- **erlang**: [Erlang Official Website](https://www.erlang.org/)
+- **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
+- **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
+- **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
+- **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
+- **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
+- ... other stuff
+
 the simple act of submitting a form morphs your inputs into a unique creative process:
 ```python
 chain = (
@@ -127,12 +137,3 @@ services:
 volumes:
   shared_data:
 ```
-### What you'll need:
-
-- **erlang**: [Erlang Official Website](https://www.erlang.org/)
-- **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
-- **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
-- **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
-- **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
-- **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
-- ... other stuff
