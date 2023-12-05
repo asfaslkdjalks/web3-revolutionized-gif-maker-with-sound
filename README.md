@@ -45,9 +45,6 @@ celery_app.log.setup_task_loggers()
 
 __all__ = ['celery_app', 'logger']
 ```
-
-to truly grasp the capabilities of *Web3-Revolutionized-GIF-Maker-5000-With-Sound*, we invite you to watch our demo video posted in discord (to be linked)
-
 ## real-time testing
 
 we're in the thick of prepping a live testing zone for this tool, so u can jump right into it on your own. it won't be long till you're getting hands-on, experimenting with its tricks and really getting the full picture, all going down in real time.
