@@ -1,13 +1,13 @@
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 ## <sup>exploring the digital zeitgeist</sup>
 
-imagine a medium that goes beyond mere entertainment, immersing itself in the intricacies of internet culture—a collage that transcends randomness, evolving into a purposeful mosaic of the digital zeitgeist. each segment curated with artisanal precision, echoing abstract, multi-layered narratives that captivate the cybernetic soul. this is the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
+envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
 
-**in this digital arena, philosophical undercurrents flow through subterranean digital cultures, revealing a world where identity is fluid, and existence is as virtual as it is physical.** a collage that subtly nods to the complexity of a reality where the 'wired' and the 'real' blur, reflecting a narrative etched into the collective memory of a generation that has grown up with the hum of the pc fan as a lullaby.
+**the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore.** it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the **‘wired’** and the **'real'** blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.
 
 ## a confluence of visual and auditory exploration
 
-in this realm, sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
+sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
 ![cybernetic collage](insert_image_link_here)
 
