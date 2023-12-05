@@ -127,8 +127,6 @@ services:
 volumes:
   shared_data:
 ```
-If you're keen to dive in, we're all for you getting your hands dirty with setting up and running web3-revolutionized-gif-maker-with-sound on your own.
-
 ### What you'll need:
 
 - **erlang**: [Erlang Official Website](https://www.erlang.org/)
