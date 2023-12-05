@@ -2,13 +2,13 @@
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 
 ### what you'll need:
-    - **erlang**: [Erlang Official Website](https://www.erlang.org/)
-    - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
-    - **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
-    - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
-    - **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
-    - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
-    - ... other stuff
+  - **erlang**: [Erlang Official Website](https://www.erlang.org/)
+  - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
+  - **ffmpeg**: [FFmpeg Official Website](https://ffmpeg.org/)
+  - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
+  - **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
+  - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
+  - ... other stuff
 
 
 envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in their data streams.
