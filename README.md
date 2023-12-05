@@ -6,23 +6,25 @@ hello,
 
 thank you for your enthusiastic interest in *web3-revolutionized-gif-maker-5000-with-sound*. we are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. in this readme, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
 
+envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
 
-## the future of content creation
+the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore. it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the ‘wired’ and the 'real' blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.
 
-in a rapidly evolving digital landscape, the demand for captivating and interactive content has never been higher. traditional gifs are charming, but we're taking it a step further by introducing the concept of *collages*. each collage is a work of art, with every image thoughtfully 'stacked' in the center, creating a mesmerizing poster-like effect. but that's just the beginning.
+in this realm, sound marries the visual in a dance that is as old as time, yet as fresh as the latest trend. the integration of auditory elements is not just an addition but an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
-## seamless integration of sound
+## witness it in action
 
-unlike conventional gifs, *web3-revolutionized-gif-maker-5000-with-sound* empowers you to integrate sound seamlessly into your creations. choose audio from youtube links and precisely select timestamps for the audio clip to synchronize it perfectly with your collage. the result? a multimedia experience that captures your audience's attention like never before.
+the simple act of submitting a form morphs your inputs into a unique creative process:
+```python
+chain = (
+    download_images_task.si(board_url, output_directory) |
+    download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
+    combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10)
+)
+result = chain.apply_async()
+```
 
-## explore the code
-
-this repository houses the very essence of this innovative tool—the core 'business logic' that drives its functionality. while we've intentionally omitted elements necessary for runtime execution, such as *requirements.txt*, *runtime configurations*, and *container configurations*, you can delve into the codebase to gain insights into the intricate algorithms and mechanics behind this revolutionary project.
-
-### logging and celery setup
-
-to provide a glimpse into the codebase, let's take a look at a snippet responsible for setting up logging and configuring celery, an essential component of our tool:
-
+remember, if you plan on running this on you're own, you'll need a `celery_config.py` file that looks something like this:
 ```python
 celery_app = Celery(
     __name__,
@@ -43,33 +45,33 @@ celery_app.log.setup_task_loggers()
 
 __all__ = ['celery_app', 'logger']
 ```
-In a single form submission, your entries will become a GIF (with sound).
-```python
-chain = (
-    download_images_task.si(board_url, output_directory) |
-    download_youtube_audio_task.si(youtube_url, start_time, end_time, "/app/downloaded_images/youtube_audio.mp3") |
-    combine_images_and_video_task.si(output_directory, "/app/downloaded_images/youtube_audio.mp3", output_video_path, 10)
-)
-result = chain.apply_async()
-```
-## Witness It in Action
 
-To truly grasp the capabilities of *Web3-Revolutionized-GIF-Maker-5000-With-Sound*, we invite you to watch our demo video. This video will walk you through the process of creating stunning collages with synchronized sound, showcasing the endless possibilities this tool offers.
+to truly grasp the capabilities of *Web3-Revolutionized-GIF-Maker-5000-With-Sound*, we invite you to watch our demo video posted in discord (to be linked)
 
-## Real-Time Testing
+## real-time testing
 
-Stay tuned! We're currently working on providing a live testing environment, allowing you to experience the magic of this tool firsthand. Soon, you'll have the opportunity to test its capabilities and witness its potential in real-time.
+we're in the thick of prepping a live testing zone for this tool, so u can jump right into it on your own. it won't be long till you're getting hands-on, experimenting with its tricks and really getting the full picture, all going down in real time.
 
-## Performance That Astounds
+## performance that astounds
 
-Our tool is built on a foundation of cutting-edge technology, utilizing RabbitMQ as a message broker. This architecture empowers the application to handle exceptional levels of throughput and scalability, ensuring your creative endeavors are never limited by technical constraints.
+our tool is built on a foundation of cutting-edge technology, utilizing rabbitmq as a message broker. this architecture empowers the application to handle exceptional levels of throughput and scalability, ensuring your creative endeavors are never limited by technical constraints.
 
-- Maximum throughput: up to a staggering 40,000 messages per second.
-- Maximum queue size: support for up to 50,000 messages.
+- maximum throughput: up to a staggering 40,000 messages per second.
+- maximum queue size: support for up to 50,000 messages.
 
-## Take the Leap
+## take the leap
 
-If you're eager to explore the possibilities, we encourage you to embark on the journey of setting up and running *Web3-Revolutionized-GIF-Maker-5000-With-Sound* on your own. We're here to assist you every step of the way, providing the necessary configuration files and comprehensive instructions to ensure your success.
+if you're keen to dive into what's possible, we're all for you getting your hands dirty with setting up and running web3-revolutionized-gif-maker-5000-with-sound on your own
 
-Best regards,
-Bingus
+what you'll need:
+
+- erlang
+- rabbitmq
+- ffmpeg
+- yt-dlp
+- flask
+- celery
+- other stuff..
+
+best,
+bingus
