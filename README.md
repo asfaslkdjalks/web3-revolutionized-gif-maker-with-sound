@@ -12,6 +12,7 @@
 - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
 - **flask**: [Flask Official Website](https://flask.palletsprojects.com/)
 - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/)
+
 you can pip install most of these, but erlang, rabbitmq, and ffmpeg must all be downloaded.
 
 ---
