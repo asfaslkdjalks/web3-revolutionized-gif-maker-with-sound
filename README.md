@@ -13,6 +13,7 @@
 - flask: [Flask Official Website][5]
 - celery: [Celery Official Website][6]
 - yt-dlp: [yt-dlp on GitHub][4]
+- gallery-dl [gallery-dl on PyPI][7]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
@@ -166,3 +167,4 @@ volumes:
 [4]: https://github.com/yt-dlp/yt-dlp
 [5]: https://flask.palletsprojects.com/
 [6]: https://docs.celeryproject.org/en/stable/
+[7]: https://pypi.org/project/gallery-dl/
