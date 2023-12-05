@@ -21,6 +21,8 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
 - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
 - ... other stuff
 
+---
+
 the simple act of submitting a form morphs your inputs into a unique creative process:
 ```python
 chain = (
@@ -52,7 +54,7 @@ celery_app.log.setup_task_loggers()
 
 __all__ = ['celery_app', 'logger']
 ```
-
+---
 you may choose to run this application in Docker, in which case you'll need to attach a Dockerfile that may look something like this:
 ```Dockerfile
 # WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
@@ -94,7 +96,7 @@ RUN chmod -R 777 /app
 # Run app.py when the container launches
 CMD ["python", "app.py"]
 ```
-
+---
 and a docker-compose file which may look like this:
 ```yaml
 # WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
@@ -139,3 +141,4 @@ services:
 volumes:
   shared_data:
 ```
+---
