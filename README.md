@@ -160,8 +160,6 @@ volumes:
 ```
 ---
 
-## References
-
 [1]: https://www.erlang.org/
 [2]: https://www.rabbitmq.com/
 [3]: https://ffmpeg.org/
