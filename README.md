@@ -20,20 +20,21 @@ envision a medium that transcends mere entertainment to critically engage with t
 sound marries the visual in a dance as old as time, yet as fresh as the latest trend. the integration of auditory elements isn't merely an addition—it's an essential layer that complements the visual—creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
 <div align="center">
-    <img src="filename.gif.gif" />
-    <div>
+    <img src="filename.gif.gif" alt="Alt text" />
+    <div style="font-size: larger;">
         made with this software, audio stripped & converted to GIF.
     </div>
-    <div>
+    <div style="font-size: small;">
         original video sources:
     </div>
     <div>
-        <a href="https://www.pinterest.com/uudablue/closet/girl-outfits/">pinterest</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M">youtube</a>
+        <a href="https://www.pinterest.com/uudablue/closet/girl-outfits/" style="font-size: medium;">pinterest</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M" style="font-size: medium;">youtube</a>
     </div>
-    <div>
+    <div style="font-size: smaller;">
         START=30 | END=180
     </div>
 </div>
+
 
 
 
