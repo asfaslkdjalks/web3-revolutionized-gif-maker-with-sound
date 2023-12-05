@@ -10,9 +10,9 @@
 - erlang: [Erlang Official Website][1]
 - rabbitmq: [RabbitMQ Official Website][2]
 - ffmpeg: [FFmpeg Official Website][3]
-- yt-dlp: [yt-dlp on GitHub][4]
 - flask: [Flask Official Website][5]
 - celery: [Celery Official Website][6]
+- yt-dlp: [yt-dlp on GitHub][4]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
