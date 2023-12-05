@@ -7,12 +7,12 @@
 
 ### *what you'll need:*
 
-- **erlang**: [Erlang Official Website][1]
-- **rabbitmq**: [RabbitMQ Official Website][2]
-- **ffmpeg**: [FFmpeg Official Website][3]
-- **yt-dlp**: [yt-dlp on GitHub][4]
-- **flask**: [Flask Official Website][5]
-- **celery**: [Celery Official Website][6]
+- erlang: [Erlang Official Website][1]
+- rabbitmq: [RabbitMQ Official Website][2]
+- ffmpeg: [FFmpeg Official Website][3]
+- yt-dlp: [yt-dlp on GitHub][4]
+- flask: [Flask Official Website][5]
+- celery: [Celery Official Website][6]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
@@ -162,12 +162,9 @@ volumes:
 
 ## References
 
-1. "Erlang," Erlang Official Website, https://www.erlang.org/.
-2. "RabbitMQ," RabbitMQ Official Website, https://www.rabbitmq.com/.
-3. "FFmpeg," FFmpeg Official Website, https://ffmpeg.org/.
-4. "yt-dlp," yt-dlp on GitHub, https://github.com/yt-dlp/yt-dlp.
-5. "Flask," Flask Official Website, https://flask.palletsprojects.com/.
-6. "Celery," Celery Official Website, https://docs.celeryproject.org/en/stable/.
-7. "Python," Python Official Documentation, https://docs.python.org/3/.
-8. "Docker," Docker Official Documentation, https://docs.docker.com/.
-9. "Docker Compose," Docker Official Documentation, https://docs.docker.com/compose/.
+[1]: https://www.erlang.org/
+[2]: https://www.rabbitmq.com/
+[3]: https://ffmpeg.org/
+[4]: https://github.com/yt-dlp/yt-dlp
+[5]: https://flask.palletsprojects.com/
+[6]: https://docs.celeryproject.org/en/stable/
