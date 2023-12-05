@@ -1,4 +1,4 @@
-# web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker with-sound
+# web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker with sound
 the easiest interface to create captivating collages.
 
 envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in the realms of pixels and data streams.
