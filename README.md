@@ -29,8 +29,7 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
     </div>
     <div>
         <div>
-            [Pinterest Girl Outfits](https://www.pinterest.com/uudablue/closet/girl-outfits/) | 
-            [YouTube Video](https://www.youtube.com/watch?v=4zHlGkWxU4M)
+            [Pinterest Girl Outfits](https://www.pinterest.com/uudablue/closet/girl-outfits/) | [YouTube Video](https://www.youtube.com/watch?v=4zHlGkWxU4M)
         </div>
         <div>
            START=30 | END=180
