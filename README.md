@@ -7,21 +7,22 @@ hello,
 thank you for your enthusiastic interest in *web3-revolutionized-gif-maker-5000-with-sound*. we are delighted to introduce you to a groundbreaking tool that's set to redefine the way you create engaging content. in this readme, we'll provide you with an in-depth overview of this revolutionary application and its capabilities.
 
 
-## The Future of Content Creation
+## the future of content creation
 
-In a rapidly evolving digital landscape, the demand for captivating and interactive content has never been higher. Traditional GIFs are charming, but we're taking it a step further by introducing the concept of *collages*. Each collage is a work of art, with every image thoughtfully 'stacked' in the center, creating a mesmerizing poster-like effect. But that's just the beginning.
+in a rapidly evolving digital landscape, the demand for captivating and interactive content has never been higher. traditional gifs are charming, but we're taking it a step further by introducing the concept of *collages*. each collage is a work of art, with every image thoughtfully 'stacked' in the center, creating a mesmerizing poster-like effect. but that's just the beginning.
 
-## Seamless Integration of Sound
+## seamless integration of sound
 
-Unlike conventional GIFs, *Web3-Revolutionized-GIF-Maker-5000-With-Sound* empowers you to integrate sound seamlessly into your creations. Choose audio from YouTube links and precisely select timestamps for the audio clip to synchronize it perfectly with your collage. The result? A multimedia experience that captures your audience's attention like never before.
+unlike conventional gifs, *web3-revolutionized-gif-maker-5000-with-sound* empowers you to integrate sound seamlessly into your creations. choose audio from youtube links and precisely select timestamps for the audio clip to synchronize it perfectly with your collage. the result? a multimedia experience that captures your audience's attention like never before.
 
-## Explore the Code
+## explore the code
 
-This repository houses the very essence of this innovative tool—the core 'business logic' that drives its functionality. While we've intentionally omitted elements necessary for runtime execution, such as *requirements.txt*, *runtime configurations*, and *container configurations*, you can delve into the codebase to gain insights into the intricate algorithms and mechanics behind this revolutionary project.
+this repository houses the very essence of this innovative tool—the core 'business logic' that drives its functionality. while we've intentionally omitted elements necessary for runtime execution, such as *requirements.txt*, *runtime configurations*, and *container configurations*, you can delve into the codebase to gain insights into the intricate algorithms and mechanics behind this revolutionary project.
 
-### Logging and Celery Setup
+### logging and celery setup
 
-To provide a glimpse into the codebase, let's take a look at a snippet responsible for setting up logging and configuring Celery, an essential component of our tool:
+to provide a glimpse into the codebase, let's take a look at a snippet responsible for setting up logging and configuring celery, an essential component of our tool:
+
 ```python
 celery_app = Celery(
     __name__,
