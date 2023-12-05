@@ -9,7 +9,7 @@ in this realm, sound marries the visual in a dance that is as old as time, yet a
 
 ## witness it in action
 
-### What you'll need:
+### what you'll need:
 
 - **erlang**: [Erlang Official Website](https://www.erlang.org/)
 - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
