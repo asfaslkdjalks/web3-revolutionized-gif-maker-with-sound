@@ -32,8 +32,17 @@ chain = (
 result = chain.apply_async()
 ```
 
-remember, if you plan on running this on you're own, you'll need a `celery_config.py` file that looks something like this:
+remember, if you plan on running this on you're own, you'll need a `celery_config.py` file that includes something like this:
 ```python
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
+# WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
+# PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
+
 celery_app = Celery(
     __name__,
     broker='amqp://guest:guest@rabbitmq:5672//',
@@ -50,8 +59,6 @@ celery_app.conf.update(
 )
 
 celery_app.log.setup_task_loggers()
-
-__all__ = ['celery_app', 'logger']
 ```
 ---
 you may choose to run this application in Docker, in which case you'll need to attach a Dockerfile that may look something like this:
