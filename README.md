@@ -5,18 +5,15 @@
 
 1. **Supply a Pinterest Link**: 
    Provide the link to the Pinterest content you want to use.
-   Example: `[Pinterest Content](https://www.pinterest.com/example)`
 
 2. **Supply a YouTube Link for Audio**: 
    Provide the link to the YouTube video for the audio part.
-   Example: `[YouTube Video](https://www.youtube.com/watch?v=example)`
 
 3. **Set Timestamps for the YouTube Video/Audio**:
    Specify the start and end timestamps for the YouTube audio you want to use.
-   Example: Start at 00:15, end at 01:45.
 
 4. **Download the Combined Content**:
-   Use a tool or software to download and combine the Pinterest content with the specified part of the YouTube audio.
+   Click submit and wait for the content to download.
 
 
 
