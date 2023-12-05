@@ -5,7 +5,7 @@ envision a medium that transcends mere entertainment to critically engage with t
 
 the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore. it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the ‘wired’ and the 'real' blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.
 
-in this realm, sound marries the visual in a dance that is as old as time, yet as fresh as the latest trend. the integration of auditory elements is not just an addition -- but an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
+in this realm, sound marries the visual in a dance that is as old as time, yet as fresh as the latest trend. the integration of auditory elements is not just an addition—but an essential layer that complements the visual, creating an immersive experience that invites introspection and connection. this isn't just a collage; it's a dialogue, a contemplative exploration of the enigmatic relationship between humanity and the ever-expanding digital universe.
 
 ## witness it in action
 
