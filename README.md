@@ -1,6 +1,16 @@
 
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 
+### step 1
+supply a pinterest link
+### step 2
+supply a youtube link (for audio)
+### step 3
+set timestamps for the youtube video/audio.
+### step 4
+download
+
+
 ### what you'll need:
 - **erlang**: [Erlang Official Website](https://www.erlang.org/)
 - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
