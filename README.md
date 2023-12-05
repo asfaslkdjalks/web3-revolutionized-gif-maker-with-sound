@@ -27,17 +27,13 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
     <div>
         original video sources:
     <div>
-    <ul>
-        <li>
+        <div>
         - https://www.pinterest.com/uudablue/closet/girl-outfits/
-        </li>
-        <li>
         - https://www.youtube.com/watch?v=4zHlGkWxU4M
-        </li>
-        <li>
-        - time settings: START=30, END=180
-        </li>
-    </ul>
+        </div>
+            <div>
+                - time settings: START=30, END=180
+            </div>
 </div>
 
 
