@@ -36,7 +36,6 @@ the simple act of submitting a form morphs your inputs into a unique creative pr
 FRAME_RATE = 10
 AUDIO_DIR = "/app/downloaded_images/youtube_audio.mp3"
 
-# ... commented out for brevity
 @app.route('/', methods=['GET', 'POST'])
 def index():
     # ... commented out for brevity
