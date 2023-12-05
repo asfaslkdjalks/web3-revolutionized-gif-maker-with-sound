@@ -1,18 +1,6 @@
 
 # web<sub>3</sub> revolutionized gif<sub>(mp4)</sub> maker<sub>(with sound)</sub>
 
-
-1. **Supply a Pinterest Link**: 
-   Provide the link to the Pinterest content you want to use.
-2. **Supply a YouTube Link for Audio**: 
-   Provide the link to the YouTube video for the audio part.
-3. **Set Timestamps for the YouTube Video/Audio**:
-   Specify the start and end timestamps for the YouTube audio you want to use.
-4. **Download the Combined Content**:
-   Click submit and wait for the content to download.
-
-
-
 ### what you'll need:
 - **erlang**: [Erlang Official Website](https://www.erlang.org/)
 - **rabbitMQ**: [RabbitMQ Official Website](https://www.rabbitmq.com/)
@@ -20,8 +8,7 @@
 - **yt-dlp**: [yt-dlp on GitHub](https://github.com/yt-dlp/yt-dlp)
 - **flask**: [Flask Official Website](https://flask.palletsprojects.com/en/2.0.x/)
 - **celery**: [Celery Official Website](https://docs.celeryproject.org/en/stable/index.html)
-- ... other stuff
-
+- ... other stuff (a pinterest link (to board w/ images), a youtube link (to video w/ audio), ...)
 
 envision a medium that transcends mere entertainment to critically engage with the intricacies of internet culture—a collage that's less a random patchwork and more a deliberate mosaic of the zeitgeist. each segment is curated with the precision of an artisan, echoing the spirit of abstract, multi-layered narratives that captivate the cybernetic soul. imagine the essence of a story that delves deep into the fabric of virtual existence, questioning the very nature of reality and self—themes that resonate with those who find solace and identity in their data streams.
 
