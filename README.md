@@ -6,12 +6,13 @@
 ***the collage becomes an arena where the philosophical undercurrents that flow through subterranean digital cultures come to the fore.*** *it's a place where visuals from the annals of the internet are woven together, hinting at a reality where identity is fluid, and existence is as much virtual as it is physical. it's a digital landscape that subtly nods to the complexity of a world where the* ***‘wired’*** *and the* ***'real'*** *blur, reflecting a narrative that is etched into the collective memory of an entire generation that has grown up with the hum of the of a pc fan as a lullaby.*
 
 ### *what you'll need:*
-- **erlang**: [Erlang Official Website] [1]
-- **rabbitmq**: [RabbitMQ Official Website] [2]
-- **ffmpeg**: [FFmpeg Official Website] [3]
-- **yt-dlp**: [yt-dlp on GitHub] [4]
-- **flask**: [Flask Official Website] [5]
-- **celery**: [Celery Official Website] [6]
+
+- **erlang**: [Erlang Official Website][1]
+- **rabbitmq**: [RabbitMQ Official Website][2]
+- **ffmpeg**: [FFmpeg Official Website][3]
+- **yt-dlp**: [yt-dlp on GitHub][4]
+- **flask**: [Flask Official Website][5]
+- **celery**: [Celery Official Website][6]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
