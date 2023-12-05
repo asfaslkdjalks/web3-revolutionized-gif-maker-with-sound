@@ -42,7 +42,7 @@ __all__ = ['celery_app', 'logger']
 ```
 
 you may choose to run this application in Docker, in which case you'll need to attach a Dockerfile that may look something like this:
-```docker
+```Dockerfile
 # WARNING: THE CONFIGURATIONS IN THIS DOCKERFILE ARE NOT DESIGNED FOR SECURITY.
 # PLEASE ENSURE TO REVIEW AND MODIFY THEM ACCORDING TO YOUR SECURITY REQUIREMENTS.
 
