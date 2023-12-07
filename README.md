@@ -26,9 +26,6 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
 <div align="center">
     <img src="aphex.gif" alt="Alt text" />
     <div>
-        made with this software, audio stripped & converted to GIF.
-    </div>
-    <div>
         <a href="https://www.pinterest.com/jimwfinley/aphex-twin/" style="font-size: medium;">pinterest</a> | <a href="https://www.youtube.com/watch?v=XYrQC-jWMFM" style="font-size: medium;">youtube</a>
     </div>
     <div style="font-size: smaller;">
@@ -36,18 +33,12 @@ sound marries the visual in a dance as old as time, yet as fresh as the latest t
     </div>
     <img src="lain.gif" alt="Alt text" />
     <div>
-        made with this software, audio stripped & converted to GIF.
-    </div>
-    <div>
         <a href="https://www.pinterest.com/xmissselenex/serial-experiment-lain/" style="font-size: medium;">pinterest</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M" style="font-size: medium;">youtube</a>
     </div>
     <div style="font-size: smaller;">
         START=30 | END=180
     </div>
     <img src="filename.gif" alt="Alt text" />
-    <div>
-        made with this software, audio stripped & converted to GIF.
-    </div>
     <div>
         <a href="https://www.pinterest.com/uudablue/closet/girl-outfits/" style="font-size: medium;">pinterest</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M" style="font-size: medium;">youtube</a>
     </div>
