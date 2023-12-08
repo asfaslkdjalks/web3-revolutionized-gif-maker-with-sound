@@ -13,7 +13,8 @@
 - ffmpeg: [FFmpeg Official Website][3] (see example Dockerfile below)
 - flask: [Flask Official Website][5]
 - yt-dlp: [yt-dlp on GitHub][4]
-- gallery-dl [gallery-dl on PyPI][7]
+- gallery-dl: [gallery-dl on PyPI][7]
+- docker desktop: [Docker Official Website][8]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
 
@@ -179,3 +180,4 @@ volumes:
 [5]: https://flask.palletsprojects.com/
 [6]: https://docs.celeryproject.org/en/stable/
 [7]: https://pypi.org/project/gallery-dl/
+[8]: https://www.docker.com/products/docker-desktop/
