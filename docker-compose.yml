@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    hostname: rabbitmq
+
+  worker:
+    build: .
+    command: celery -A celery_config worker --loglevel=info
+    environment:
+      - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672//
+    depends_on:
+      - rabbitmq
+    volumes:
+      - shared_data:/app/downloaded_images
+
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    command: python app.py
+    depends_on:
+      - rabbitmq
+    volumes:
+      - shared_data:/app/downloaded_images
+
+volumes:
+  shared_data:
