@@ -9,11 +9,6 @@
 
 - erlang: [Erlang Official Website][1] (pre-requisite to rabbitmq)
 - rabbitmq: [RabbitMQ Official Website][2]
-- celery: [Celery Official Website][6]
-- ffmpeg: [FFmpeg Official Website][3] (see example Dockerfile below)
-- flask: [Flask Official Website][5]
-- yt-dlp: [yt-dlp on GitHub][4]
-- gallery-dl: [gallery-dl on PyPI][7]
 - docker desktop: [Docker Official Website][8]
 
 *you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
