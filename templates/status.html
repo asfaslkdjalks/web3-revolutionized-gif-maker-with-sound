@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Status Page</title>
+    <meta http-equiv="refresh" content="5"> <!-- Auto-refresh every 5 seconds -->
+</head>
+<body>
+    <h1>Task Status</h1>
+    <p>{{ message }}</p>
+
+    {% if download_link %}
+        <a href="{{ download_link }}">Download Video</a>
+    {% else %}
+        <p>Please wait while your video is being processed...</p>
+    {% endif %}
+
+    <p><a href="{{ url_for('index') }}">Submit another request</a></p>
+</body>
+</html>
