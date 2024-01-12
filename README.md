@@ -11,8 +11,6 @@
 - rabbitmq: [RabbitMQ Official Website][2]
 - docker desktop: [Docker Official Website][8]
 
-*you can `pip install <package>` most of these, but `erlang`, `rabbitmq`, and `ffmpeg` must all be downloaded.*
-
 ---
 
 ## a confluence of visual and auditory exploration
