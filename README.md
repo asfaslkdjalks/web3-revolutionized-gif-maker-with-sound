@@ -36,13 +36,6 @@ here's some examples (without sound) that users created:
     <div style="font-size: smaller;">
         START=30 | END=180
     </div>
-    <img src="filename.gif" alt="Alt text" />
-    <div>
-        <a href="https://www.pinterest.com/uudablue/closet/girl-outfits/" style="font-size: medium;">pinterest</a> | <a href="https://www.youtube.com/watch?v=4zHlGkWxU4M" style="font-size: medium;">youtube</a>
-    </div>
-    <div style="font-size: smaller;">
-        START=30 | END=180
-    </div>
 </div>
 
 
